@@ -1,4 +1,4 @@
-<h2 align="center">HALO! Saya Reky</h2>
+<h2 align="center">HALO!</h2>
 
 ###
 
